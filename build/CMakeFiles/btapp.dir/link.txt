@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/btapp.dir/program.cpp.o -o btapp 

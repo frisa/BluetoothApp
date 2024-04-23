@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BluetoothApp.dir/program.cpp.o -o BluetoothApp  -ldbus-1 

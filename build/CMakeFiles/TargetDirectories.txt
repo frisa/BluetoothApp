@@ -1,0 +1,3 @@
+/home/jan/Repositories/BluetoothApp/build/CMakeFiles/BluetoothApp.dir
+/home/jan/Repositories/BluetoothApp/build/CMakeFiles/edit_cache.dir
+/home/jan/Repositories/BluetoothApp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jan/Repositories/BluetoothApp/build",
+  "command": "/usr/bin/g++  -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -g -std=gnu++14 -o CMakeFiles/BluetoothApp.dir/program.cpp.o -c /home/jan/Repositories/BluetoothApp/program.cpp",
+  "file": "/home/jan/Repositories/BluetoothApp/program.cpp",
+  "output": "CMakeFiles/BluetoothApp.dir/program.cpp.o"
+}
+]
